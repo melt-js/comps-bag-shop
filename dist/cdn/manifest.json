@@ -1,6 +1,6 @@
 {
   "name": "@melt-js/comps-bag-shop",
-  "version": "2026.11.16-1",
+  "version": "2026.11.22",
   "entries": {
     "@melt-js/comps-bag-shop": {
       "specifier": "@melt-js/comps-bag-shop",
@@ -14,13 +14,13 @@
   "resources": [
     {
       "specifier": "@melt-js/libs-bag-entry",
-      "esm": "https://unpkg.com/@melt-js/libs-bag-entry@2026.11.16-1/dist/index.js",
-      "umd": "https://unpkg.com/@melt-js/libs-bag-entry@2026.11.16-1/dist/cdn/index.umd.cjs",
-      "vendor": "https://unpkg.com/@melt-js/libs-bag-entry@2026.11.16-1/dist/cdn/vendor.umd.cjs"
+      "esm": "https://unpkg.com/@melt-js/libs-bag-entry@2026.11.22/dist/index.js",
+      "umd": "https://unpkg.com/@melt-js/libs-bag-entry@2026.11.22/dist/cdn/index.umd.cjs",
+      "vendor": "https://unpkg.com/@melt-js/libs-bag-entry@2026.11.22/dist/cdn/vendor.umd.cjs"
     }
   ],
   "imports": {
-    "@melt-js/libs-bag-entry": "https://unpkg.com/@melt-js/libs-bag-entry@2026.11.16-1/dist/index.js",
+    "@melt-js/libs-bag-entry": "https://unpkg.com/@melt-js/libs-bag-entry@2026.11.22/dist/index.js",
     "axios": "https://esm.sh/axios@1.21.0?external=vue,react,react-dom,react-is",
     "@vueuse/core": "https://esm.sh/@vueuse/core@15.0.0?external=vue,react,react-dom,react-is",
     "lodash-es/debounce": "https://esm.sh/lodash-es@4.18.1/debounce?external=vue,react,react-dom,react-is",
@@ -30,7 +30,7 @@
     "vue-i18n": "https://esm.sh/vue-i18n@10.0.8?external=vue,react,react-dom,react-is",
     "pinia": "https://esm.sh/pinia@3.0.4?external=vue,react,react-dom,react-is",
     "vue-router": "https://esm.sh/vue-router@4.6.4?external=vue,react,react-dom,react-is",
-    "@melt-js/comps-bag-shop": "https://unpkg.com/@melt-js/comps-bag-shop@2026.11.16-1/dist/index.js"
+    "@melt-js/comps-bag-shop": "https://unpkg.com/@melt-js/comps-bag-shop@2026.11.22/dist/index.js"
   },
   "styles": [
     "dist/index.css"
